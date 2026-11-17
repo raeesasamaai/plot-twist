@@ -1,1 +1,0 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/components/ArchiveArt.tsx","./src/lib/api.ts","./src/lib/fallback.ts","./src/lib/game.test.ts","./src/lib/game.ts","./src/lib/storage.ts","./src/lib/story.ts","./src/lib/types.ts","./server/assets.d.ts","./server/worker.test.ts","./server/worker.ts"],"version":"5.9.3"}

@@ -70,6 +70,8 @@ npm run check  # both
 
 The build embeds the UI, fonts, and licences in `dist/server/index.js`. It requires no asset binding and can be deployed as a Worker ES module. `.openai/hosting.json` records the associated private Sites preview. It contains no secrets.
 
+The included [Sites review deployment](https://plot-twist-raeesa.silkyfoal64.chatgpt.site) is owner-private and requires your ChatGPT sign-in. It is not yet a publicly accessible recruiter demo. The application itself has no player-account system; the Cloudflare instructions below provide a path to public hosting on your own free account.
+
 For your own **Cloudflare Free plan** deployment:
 
 ```sh

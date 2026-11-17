@@ -1756,6 +1756,26 @@ dialog::backdrop {
     font-size: 11px;
   }
 }
+@media (max-width: 380px) {
+  .room-track {
+    gap: 10px;
+  }
+  .track-item {
+    gap: 5px;
+    min-width: 0;
+  }
+  .track-label {
+    font-size: 6px;
+    letter-spacing: 0.4px;
+  }
+  .track-node {
+    width: 24px;
+    height: 24px;
+  }
+  .hero-metadata {
+    gap: 15px;
+  }
+}
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
